@@ -1,0 +1,51 @@
+body {
+    background-color: red;
+    margin-left: 30%;   
+}
+
+p {
+    margin-left: 15%;
+    font-size: 120%;
+}
+
+h2 {
+    margin-left: 15%;
+    font-size: 225%;
+}
+
+h3 {
+    margin-left: 17%;
+    font-size: 130%;
+}
+
+.center{
+        margin-left: 10%;
+}
+
+#header {
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    font-size: 25px;
+    margin-right: 25%;
+    margin-left: -15%;
+    margin-top: 5%;
+}
+
+#navlinks {
+    font-size: 150%;
+    margin-left: 5%
+}
+
+#footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    margin-right: 47.5%;
+}
