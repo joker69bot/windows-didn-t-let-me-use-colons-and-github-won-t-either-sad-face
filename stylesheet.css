@@ -50,3 +50,15 @@ h3 {
     text-align: center;
     margin-left: -42.5%
 }
+
+li {
+    float: left;
+  }
+  
+  a {
+    display: block;
+    padding: 8px;
+    background-color: black;
+    font-size: 25px;
+    color: white;
+  }
