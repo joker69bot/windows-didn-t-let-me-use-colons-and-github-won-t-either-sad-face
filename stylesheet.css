@@ -1,6 +1,6 @@
 body {
     background-color: red;
-    margin-left: 30%;   
+    margin-left: 30%   
 }
 
 p {
@@ -61,4 +61,8 @@ li {
     background-color: black;
     font-size: 25px;
     color: white;
+  }
+
+  #Hearts {
+      margin-left: -5%;
   }
